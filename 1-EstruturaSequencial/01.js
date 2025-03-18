@@ -1,1 +1,1 @@
-console.log("alo mundo")
+prompt("digite seu nome?")
